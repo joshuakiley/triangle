@@ -17,3 +17,22 @@ This mini documentary explores how people learn:
 
 **Note**
 This program requires Node.js
+
+In the terminal execute
+```console
+node triangle.js
+```
+
+then the user will be prompted
+```console
+Please enter the name of the file excluding the file extension:
+```
+
+The two provided files are
+```console
+sample
+```
+AND
+```console
+triangle
+```
