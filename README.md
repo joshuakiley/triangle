@@ -13,3 +13,7 @@ This mini documentary explores how people learn:
 * I did some research and learned about this triangle problem from [MathBlog](https://www.mathblog.dk/project-euler-18/)
 * I looked at the C# examples, then I started figuring out how I would solve this problem using JavaScript
 * I then did a lot of refactoring and commenting to make the program more presentable
+
+
+**Note**
+This program requires Node.js
