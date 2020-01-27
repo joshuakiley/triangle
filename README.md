@@ -40,3 +40,4 @@ triangle
 
 # Roadmap
 * Rewrite this program in C# using .NET
+* Create an exception for the file not existing
