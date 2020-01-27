@@ -39,4 +39,4 @@ triangle
 ```
 
 # Roadmap
-* Rewrite this prigram in C# using .NET
+* Rewrite this program in C# using .NET
