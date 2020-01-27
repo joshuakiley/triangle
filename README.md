@@ -12,7 +12,7 @@ This mini documentary explores how people learn:
 # Inspiration
 *We stand on the shoulders of giants.*
 * After being given this assignment I did some research and learned more about this triangle problem from [MathBlog](https://www.mathblog.dk/project-euler-18/)
-* I looked at the C# examples on the MathBlog page, then I started figuring out how I would solve this problem using JavaScript
+* I looked at the rudimentary examples on the MathBlog page, then I started figuring out how I would solve this problem using JavaScript
 * I then did a lot of refactoring and commenting to make the program more presentable and elegant
 
 
