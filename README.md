@@ -17,7 +17,11 @@ This mini documentary explores how people learn:
 
 
 # Notes
-This program requires Node.js
+This program requires Node.js and NPM
+Before executing the program make sure Node and NPM are install and run the following:
+```console
+npm install
+```
 
 In the terminal execute
 ```console
