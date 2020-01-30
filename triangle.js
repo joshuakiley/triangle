@@ -16,11 +16,12 @@ const readline = require("readline");
 
 /** To read file as string, split string on the line breaks to create an array of strings where each string represents one line from the file. */
 const readFile = fileName => {
-  //   console.log(
-  //     `Array of Strings:    `,
-  //     fs.readFileSync(`./${fileName}`, "utf-8").split("\n"),
-  //     "\n"
-  //   );
+  // console.log(
+  //   `Array of Strings:    `,
+  //   fs.readFileSync(`./${fileName}`, "utf-8").split("\n"),
+  //   "\n"
+  // );
+
   return fs.readFileSync(`./${fileName}`, "utf-8").split("\n");
 };
 
@@ -48,7 +49,6 @@ const createNestedArrays = arrOfStrs => {
 };
 
 /** To convert array of characters to an array of integers */
-// NOTE: This step is not necessary in JavaScript because JavaScript treats characters or strings or numbers similarly to integers. However, this step would be necessary in other programming languages so it is inculded.
 const handleNestedArrays = arrOfChars => {
   // An empty array to push the integers into later
   const arrOfInts = [];
